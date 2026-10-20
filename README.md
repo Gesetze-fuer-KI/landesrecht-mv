@@ -57,4 +57,7 @@ Google darf die Gesetze also einlesen, ein freies, gemeinnütziges Projekt nicht
 > Mit freundlichen Grüßen\
 > [Name]
 
-Bis dahin: [Landesrecht Mecklenburg-Vorpommern von Hand lesen](https://www.landesrecht-mv.de) · [gesetze-fuer-ki.de](https://gesetze-fuer-ki.de) 
+## Bis dahin
+
+- **[Landesrecht Mecklenburg-Vorpommern auf dem Landesportal](https://www.landesrecht-mv.de)**: von Hand im Browser lesen.
+- **[gesetze-fuer-ki.de](https://gesetze-fuer-ki.de)**: Bundesrecht und das Landesrecht der Länder, die den Abruf erlauben, für Ihren KI-Assistenten.
